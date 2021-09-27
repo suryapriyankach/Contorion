@@ -11,7 +11,7 @@ IDE: PyCharm & Command Prompt(Windows)
 
 Steps to run the Automation Script
 1.	Cloning the repo from GitHub
-https://github.com/rajeevpatil24/UI_Automation.git
+https://github.com/suryapriyankach/Contorion.git
 2.	Go to the path where above repo has been cloned, open the repo in an IDE Open terminal in IDE and run below command
 pytest -v -s --html=Report\reports.html TestCases/test_loginSearch.py
 pytest -v -s --html=Report\loginNegative.html TestCases/test_login_Negative.py
